@@ -1,3 +1,4 @@
+![travis ci](https://travis-ci.org/TEAM-WAM/Foodist2.0.svg?branch=master)
 # README
 
 This README would normally document whatever steps are necessary to get the
