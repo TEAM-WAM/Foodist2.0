@@ -142,6 +142,11 @@ GEM
     rb-fsevent (0.9.7)
     rb-inotify (0.9.7)
       ffi (>= 0.5.0)
+    react-dnd-html5-backend-rails (2.1.2)
+      rails (>= 4.0)
+    react-dnd-rails (2.1.4)
+      rails (>= 4.0)
+      react-dnd-html5-backend-rails
     react-rails (1.8.2)
       babel-transpiler (>= 0.7.0)
       coffee-script-source (~> 1.8)
@@ -206,6 +211,8 @@ DEPENDENCIES
   puma (~> 3.0)
   rails (~> 5.0.0, >= 5.0.0.1)
   rake
+  react-dnd-html5-backend-rails
+  react-dnd-rails
   react-rails
   sass-rails (~> 5.0)
   spring
